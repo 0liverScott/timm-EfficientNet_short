@@ -1,3 +1,3 @@
-# timme-EfficientNet_preload
+# timm-EfficientNet_short
 
-Preload weight timm's EfficientNet.
+Short version for timm's EfficientNet inference.
